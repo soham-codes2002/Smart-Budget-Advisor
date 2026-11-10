@@ -14,7 +14,7 @@
 
 **[▶ Try the live app](https://d2mwk2cqloy1gp.cloudfront.net)**
 
-<img src="docs/04-plan.png" alt="Smart Budget Advisor: budget split, debt-free date and loan payoff chart" width="900">
+<img src="docs/step3.png" alt="Smart Budget Advisor: budget split, debt-free date and loan payoff chart" width="900">
 
 </div>
 
@@ -79,15 +79,15 @@ Enter income, living costs and an optional loan. The app answers in plain Englis
 
 <table>
   <tr>
-    <td width="50%"><b>1. Sign in</b> (Cognito)<br><img src="docs/01-login.png" alt="Login screen"></td>
-    <td width="50%"><b>2. Income and bills</b><br><img src="docs/02-income.png" alt="Step 1: income and bills"></td>
+    <td width="50%"><b>1. Sign in</b> (Cognito)<br><img src="docs/login.png" alt="Login screen"></td>
+    <td width="50%"><b>2. Income and bills</b><br><img src="docs/step1.png" alt="Step 1: income and bills"></td>
   </tr>
   <tr>
-    <td width="50%"><b>3. Loan details</b> (AUD or INR, grace periods)<br><img src="docs/03-loan.png" alt="Step 2: loan details"></td>
-    <td width="50%"><b>4. Tune your plan</b> (live payoff slider)<br><img src="docs/04-plan.png" alt="Step 3: tune your plan"></td>
+    <td width="50%"><b>3. Loan details</b> (AUD or INR, grace periods)<br><img src="docs/step2.png" alt="Step 2: loan details"></td>
+    <td width="50%"><b>4. Tune your plan</b> (live payoff slider)<br><img src="docs/step3.png" alt="Step 3: tune your plan"></td>
   </tr>
   <tr>
-    <td colspan="2"><b>5. Past check-ins</b> (saved in DynamoDB, with a clear-history option)<br><img src="docs/05-history.png" alt="Past check-ins"></td>
+    <td colspan="2"><b>5. Past check-ins</b> (saved in DynamoDB, with a clear-history option)<br><img src="docs/history.png" alt="Past check-ins"></td>
   </tr>
 </table>
 
